@@ -1,0 +1,6 @@
+@tvShow_HostAddress = http://localhost:5206
+
+GET {{tvShow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
