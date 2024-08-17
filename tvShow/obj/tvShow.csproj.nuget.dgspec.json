@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kevin Cobian\\Documents\\tvShow-back\\tvShow.csproj": {}
+    "C:\\Users\\Kevin Cobian\\Documents\\tvShow-back\\tvShow\\tvShow.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kevin Cobian\\Documents\\tvShow-back\\tvShow.csproj": {
+    "C:\\Users\\Kevin Cobian\\Documents\\tvShow-back\\tvShow\\tvShow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin Cobian\\Documents\\tvShow-back\\tvShow.csproj",
+        "projectUniqueName": "C:\\Users\\Kevin Cobian\\Documents\\tvShow-back\\tvShow\\tvShow.csproj",
         "projectName": "tvShow",
-        "projectPath": "C:\\Users\\Kevin Cobian\\Documents\\tvShow-back\\tvShow.csproj",
+        "projectPath": "C:\\Users\\Kevin Cobian\\Documents\\tvShow-back\\tvShow\\tvShow.csproj",
         "packagesPath": "C:\\Users\\Kevin Cobian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin Cobian\\Documents\\tvShow-back\\obj\\",
+        "outputPath": "C:\\Users\\Kevin Cobian\\Documents\\tvShow-back\\tvShow\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kevin Cobian\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,6 +50,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.7.0, )"
             }
           },
           "imports": [

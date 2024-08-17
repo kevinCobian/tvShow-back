@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uzj3jDG5OWg=",
+  "dgSpecHash": "oXVY5Y6d4Mc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kevin Cobian\\Documents\\tvShow-Backend\\tvShow\\tvShow.csproj",
+  "projectFilePath": "C:\\Users\\Kevin Cobian\\Documents\\tvShow-back\\tvShow.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kevin Cobian\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
     "C:\\Users\\Kevin Cobian\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
